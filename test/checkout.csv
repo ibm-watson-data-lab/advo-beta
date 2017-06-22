@@ -1,0 +1,2 @@
+customer_id,event_time,click_event_type,payload_1, payload_2
+1230,1104,checkout,0,1
