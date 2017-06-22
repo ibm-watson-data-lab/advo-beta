@@ -1,3 +1,0 @@
-customer_id,event_time,click_event_type,payload_1, payload_2
-1230,1100,login,0,0
-1231,1101,login,1,1
