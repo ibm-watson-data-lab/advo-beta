@@ -1,4 +1,0 @@
-customer_id,event_time,click_event_type,payload_1, payload_2
-1230,1102,browsing,0,0
-1231,1102,browsing,1,1
-1230,1103,browsing,0,1
